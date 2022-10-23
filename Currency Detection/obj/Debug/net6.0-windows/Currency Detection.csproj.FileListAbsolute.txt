@@ -1,0 +1,21 @@
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\Currency Detection.exe
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\Currency Detection.deps.json
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\Currency Detection.runtimeconfig.json
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\Currency Detection.dll
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\ref\Currency Detection.dll
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\bin\Debug\net6.0-windows\Currency Detection.pdb
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.csproj.AssemblyReference.cache
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.AssemblyInfoInputs.cache
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.AssemblyInfo.cs
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.csproj.CoreCompileInputs.cache
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.dll
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\ref\Currency Detection.dll
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.pdb
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.genruntimeconfig.cache
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency_Detection.Form1.resources
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency Detection.csproj.GenerateResource.cache
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency_Detection.Properties.Resources.resources
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency_Detection.Fake.resources
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency_Detection.Login.resources
+C:\Users\Julius Anumbia\source\repos\Currency Detection\Currency Detection\obj\Debug\net6.0-windows\Currency_Detection.Form2.resources

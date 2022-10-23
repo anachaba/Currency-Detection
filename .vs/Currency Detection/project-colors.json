@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6b42770-8bf5-4f2a-995c-de8e208e232e": {
+      "ProjectGuid": "f6b42770-8bf5-4f2a-995c-de8e208e232e",
+      "DisplayName": "Currency Detection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
